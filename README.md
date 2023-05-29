@@ -15,9 +15,9 @@
 
 ## 📝 Table of Contents
 - [About](#about)
-- [System-Requirement](#system-Requirement)
-- [Website-view](#🎈-website-view)
-- [Acknowledgments](#acknowledgements)
+- [System-Requirement](#system-requirement)
+- [Website-view](#website-view)
+- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 Setting up an online food ordering system for your restaurant is a bit of
@@ -32,9 +32,11 @@ Third-party sites list your restaurant along with many others offering similar c
 coming back and away from tempting competitor offers.
 
 
-## System Requirement <a name = "system Requirement"></a>
+## System Requirement <a name = "system-requirement"></a>
 
 ### Flow Chart: 
+
+Flow Chart Indicates the how the customer place the order and how it will reach to Chef and how it will reach the customer everything detailed in Flow Chart.
 
  <p>
 <img width=400px height=400px src="/images/Flow.jpg">
@@ -42,13 +44,7 @@ coming back and away from tempting competitor offers.
 
 
 
-
-
-
-
-
 ## 🎈 Website-View <a name="website view"></a>
-
 ### Login:
 <p>
 <img width=400px height=400px src="/images/Login.jpg">
