@@ -36,7 +36,7 @@ coming back and away from tempting competitor offers.
 ## System requirement :
 
  <p>
-<img width=200px height=200px src="/images/Flow.jpg">
+<img width=400px height=400px src="/images/Flow.jpg">
 </p>
 
 
