@@ -15,10 +15,9 @@
 
 ## 📝 Table of Contents
 - [About](#about)
-- [Usage-and-Development](#usage and development)
-- [System Requirement]
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [System-Requirement](#system-Requirement)
+- [Website-view](#🎈-website-view)
+- [Acknowledgments](#acknowledgements)
 
 ## 🧐 About <a name = "about"></a>
 Setting up an online food ordering system for your restaurant is a bit of
@@ -33,7 +32,9 @@ Third-party sites list your restaurant along with many others offering similar c
 coming back and away from tempting competitor offers.
 
 
-## System requirement :
+## System Requirement <a name = "system Requirement"></a>
+
+### Flow Chart: 
 
  <p>
 <img width=400px height=400px src="/images/Flow.jpg">
@@ -44,17 +45,26 @@ coming back and away from tempting competitor offers.
 
 
 
-### Installing
 
 
+## 🎈 Website-View <a name="website view"></a>
+
+### Login:
+<p>
+<img width=400px height=400px src="/images/Login.jpg">
+</p>
+
+### HOMEPAGE:
+<p>
+<img width=400px height=400px src="/images/Home.jpg">
+</p>
+
+### Product Page:
+<p>
+<img width=400px height=400px src="/images/Product.jpg">
+</p>
 
 
-
-
-## 🎈 Website View <a name="Website View"></a>
-1.We can run the game one player can be enter manually and another we can enter rand() method.
-2.We can connect the progarm to visualize by using the java swing.
-3.We can visualize the output in the console by creating the design file where we can show the output.
 
 
 
@@ -69,5 +79,6 @@ coming back and away from tempting competitor offers.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Hat tip to anyone whose code was used
-- Inspiration
-- References
+- References - W3 Schools, Freecode camp
+
+
